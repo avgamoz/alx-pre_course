@@ -1,6 +1,2 @@
-ALX.txt
+#!/bin/bash
 ALX
- >> bash/alx
-ls bash/alx
-echo ALX
-echo -e ALXn
